@@ -1,2 +1,2 @@
-# C-and-Cpp-programs
-Programs coded using C and C++
+#image_processing done using threads
+Programs coded using C
